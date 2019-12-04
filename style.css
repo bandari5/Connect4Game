@@ -1,9 +1,7 @@
 body {
     background: linear-gradient(0deg,#E5FCC2,   #9DE0AD,#45ADA8,#547980,#594F4F );
-    text-align: center;
-    
+    text-align: center;   
 }
-
 
 h1 {
   background-color:#5A4D4C; 
@@ -34,8 +32,6 @@ button {
   border-radius: 4px;
 }
 
-
-
 table {
     background-color: #5A4D4C;
     height: 100%;
@@ -44,10 +40,7 @@ table {
     margin: auto;
     border-spacing: 12px;
     margin-top:0px;
-    box-shadow: 0 5px 15px #9DE0AD ;
-    
-    
-    
+    box-shadow: 0 5px 15px #9DE0AD ;     
 }
 
 .game {
