@@ -1,28 +1,25 @@
-# Connect4Game
+# Connect Four Game
 
-- Connect Four (also known as Captain's Mistress, Four Up, Plot Four, Find Four, Four in a Row, Four in a Line, Drop Four, and Gravitrips.
-- the objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. 
+A simple classic Connect 4 game for two players written in HTML, CSS and jQuery. The game shows the case of winner/lose/tie, switch turns between Player1 and Player2. Ability to play again by pressing the "Play Again" button. The site fully responsive, so it's playable from a mobile phone.
 
-# List technologies used
+The Game Link - (https://bandari5.github.io/Connect4Game/).
 
--jquery.
-- js
+# Installing
 
-# development process and problem-solving strategy
-i used for loop and if statement in some parts
+Should be able to run HTML, CSS and jQuery on your system.
 
-# List unsolved problems which would be fixed in future iterations.
+# Built With
 
-i faced some problems in logic part and after that i can do it  
+brackets editor - The editor I have used
+[HTML] - Frontend development
+[CSS] - Frontend development
+[jQuery] - Frontend development
 
-# Describe how you solved for the winner
+# Authors
 
-i used two methods which is for loop and if statment 
+Bandari Saud -  Initial work - (https://github.com/bandari5/Connect4Game)
 
-# Describe how some of your favorite functions work
+# Acknowledgments
 
-the favorite function it is the win part 
+The Connect 4 Game project was developed while taking the GA (Software Engineering Immersive) course in Misk Academy. 
 
-# Link
-
- https://bandari5.github.io/Connect4Game/
